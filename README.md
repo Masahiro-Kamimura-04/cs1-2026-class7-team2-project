@@ -1,0 +1,2 @@
+# cs1-2026-class7-team2-project
+チームでWebページを構築する演習
